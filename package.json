@@ -46,6 +46,7 @@
     "grunt-shell": "latest",
     "grunt-postcss": "latest",
     "web-component-tester": "latest",
+    "wct-sauce": "latest",
     "webcomponentsjs": "latest",
     "eslint": "latest",
     "eslint-config-airbnb-base": "latest",
