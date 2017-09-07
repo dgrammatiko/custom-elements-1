@@ -17,7 +17,7 @@
 					"version": "latest"
 				},
 				{
-					"browserName": "safari",
+					"browserName": "chrome",
 					"platform": "Windows 10",
 					"version": "latest"
 				},
